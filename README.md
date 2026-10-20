@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Team Power house** · Team ID `VTU-QFF-HC-0050` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Team Power house)
+[⬆ Back to Top](#team-power-house)
 
 </div>
